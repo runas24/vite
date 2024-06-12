@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [vue()],
   export default defineConfig({
     base: '/vite'
-})
+  });
 
